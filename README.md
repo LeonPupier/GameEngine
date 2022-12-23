@@ -16,6 +16,8 @@ Despite everything, I strongly invite you to modify my code if you feel like it,
 The number of files in this folder is quite substantial due to the many textures used and the lack of optimization of these,
 I should have made an image for all the animations of an entity instead of an image each time...
 
+All the textures present in this repo have been drawn by me, yes, it's not always the best and it took me a lot of time.
+
 *Among all the features that I implemented myself, here is a short list.*
 
 **Regarding the game engine itself:**
@@ -54,3 +56,6 @@ I should have made an image for all the animations of an entity instead of an im
 - Map optimization tools.
 
 *And approximately 42 million other things...*
+
+**Here is a small collection of images to present my work:**
+
