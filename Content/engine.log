@@ -1,0 +1,35 @@
+DEBUG:root:Successful import of internal and external modules
+DEBUG:root:Name machine: Pc-Leon
+DEBUG:root:System OS: Windows
+DEBUG:root:System machine: win32
+DEBUG:root:Machine: AMD64
+DEBUG:root:Platforme: Windows-10-10.0.19045-SP0
+DEBUG:root:Release: 10
+DEBUG:root:Version: 10.0.19045
+DEBUG:root:Processor: AMD64 Family 23 Model 17 Stepping 0, AuthenticAMD
+DEBUG:root:DRM accepted
+DEBUG:root:Pygame launched
+DEBUG:root:Pygame version: 2.1.2
+DEBUG:root:Pygame SDL version: (2, 0, 4)
+DEBUG:root:Pygame display driver: windows
+DEBUG:root:DirectX: False
+DEBUG:root:Language: FR
+DEBUG:root:Vsync: False
+DEBUG:root:Keyboard actions initialized
+DEBUG:root:Controller actions initialized
+DEBUG:root:Window flag: DOUBLEBUF
+DEBUG:root:Size window: (1920, 1080)
+DEBUG:root:Font 'Content/Fonts/pixel_game.ttf' loaded
+DEBUG:root:Try to import the player save...
+DEBUG:root:Successfully imported
+DEBUG:root:Interaction class loaded
+DEBUG:root:HUD loaded
+DEBUG:root:Loading loaded
+DEBUG:root:Widgets loaded
+DEBUG:root:Menu loaded
+DEBUG:root:MainMenu loaded
+DEBUG:root:Effect loaded
+DEBUG:root:Player loaded
+DEBUG:root:Map loaded
+DEBUG:root:Show game window
+DEBUG:root:Game loop starting...
