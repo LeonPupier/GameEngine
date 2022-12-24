@@ -1,6 +1,8 @@
 # GameEngine
 *2D game engine created during the covid confinement from 2019 to 2021.*
 
+![logo](https://user-images.githubusercontent.com/100092382/209431756-8d32e7f1-8c2e-4172-906d-ac211d741077.png)
+
 This 2D engine is entirely coded in Python.
 The goal of this project was to learn as many different concepts as possible through video games.
 I supported this engine for 2 years before abandoning its development.
@@ -59,3 +61,16 @@ All the textures present in this repo have been drawn by me, yes, it's not alway
 
 **Here is a small collection of images to present my work:**
 
+![1](https://user-images.githubusercontent.com/100092382/209431784-257801fb-7d1f-4b71-9cda-5e191554894b.png)
+
+**Interaction with NPCs and enemies in the game:**
+
+![2](https://user-images.githubusercontent.com/100092382/209431787-2e3fd695-c920-45f2-a468-6662ca705d88.png)
+
+**Interaction with buildings and objects:**
+
+![3](https://user-images.githubusercontent.com/100092382/209431790-b75117de-9705-4983-ba98-f0b3e7b1bbcf.png)
+
+**Capture of the edit mode of the game map:**
+
+![4](https://user-images.githubusercontent.com/100092382/209431789-a2f31085-4b56-4d19-8849-c8f40f9c6d87.png)
