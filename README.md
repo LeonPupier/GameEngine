@@ -3,6 +3,8 @@
 
 ![logo](https://user-images.githubusercontent.com/100092382/209431756-8d32e7f1-8c2e-4172-906d-ac211d741077.png)
 
+## Presentation
+
 This 2D engine is entirely coded in Python.
 The goal of this project was to learn as many different concepts as possible through video games.
 I supported this engine for 2 years before abandoning its development.
@@ -20,9 +22,11 @@ I should have made an image for all the animations of an entity instead of an im
 
 All the textures present in this repo have been drawn by me, yes, it's not always the best and it took me a lot of time.
 
+## Features
+
 *Among all the features that I implemented myself, here is a short list.*
 
-**Regarding the game engine itself:**
+**⚙️ Regarding the game engine itself:**
 - Multi-threaded graphical representation to optimize performance.
 - Configuration support (see Content/engine.ini).
 - Variable window sizes.
@@ -32,13 +36,13 @@ All the textures present in this repo have been drawn by me, yes, it's not alway
 - Sound support with short ambient sounds or long music in real time and asynchronously.
 - Surface adaptive footsteps.
 
-**Regarding user events:**
+**⌨️ Regarding user events:**
 - Full keyboard and mouse support.
 - Support for gamepads (Playstation, Xbox).
 - Support for Drag and Drop in the graphics window.
 - Detection of certain system events such as the reduction of the game window.
 
-**About the game:**
+**🕹️ About the game:**
 - Game pause menu.
 - Quest system.
 - Player inventory.
@@ -49,7 +53,7 @@ All the textures present in this repo have been drawn by me, yes, it's not alway
 - Presence of NPC or enemy able to follow an entity such as the player or a position.
 - Management of different maps with progressive changes and without loading.
 
-**For game map creation:**
+**✒️ For game map creation:**
 - Added building assets, objects, living entity, collision walls, environmental decorations.
 - Possibility to change the starting point of the player.
 - Map creation statistics.
@@ -58,6 +62,8 @@ All the textures present in this repo have been drawn by me, yes, it's not alway
 - Map optimization tools.
 
 *And approximately 42 million other things...*
+
+## Gallery
 
 **Here is a small collection of images to present my work:**
 
@@ -74,3 +80,14 @@ All the textures present in this repo have been drawn by me, yes, it's not alway
 **Capture of the edit mode of the game map:**
 
 ![4](https://user-images.githubusercontent.com/100092382/209431789-a2f31085-4b56-4d19-8849-c8f40f9c6d87.png)
+
+## Informations
+
+Keep in mind that the work presented in this folder is not finished and that the attached images have been previously compressed.
+The game engine was entirely coded by myself thanks to the basic tools provided by the Pygame library for graphic display.
+I have no plans to continue the development and porting of this project on another platform with a finished public rendering.
+Other projects are waiting for me now, this little personal challenge kept me busy during the lockdown, I expected no less ;)
+
+Take care and see you soon,
+
+*👨‍🎓 Leon Pupier*
