@@ -1,5 +1,5 @@
 # GameEngine
-*2D game engine created during the covid confinement from 2019 to 2021.*
+*2D game engine created during the covid confinement from 2019 to 2021.* 
 
 ![logo](https://user-images.githubusercontent.com/100092382/209431756-8d32e7f1-8c2e-4172-906d-ac211d741077.png)
 
